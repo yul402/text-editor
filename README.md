@@ -1,7 +1,7 @@
 # text-editor
 ![GitHub license](https://img.shields.io/badge/license-MIT-yellowgreen.svg)
 
-App Deployment Link: 
+App Deployment Link: https://text-editor-pwa-app-80724a41e6cb.herokuapp.com/
 
 ## Description
 
